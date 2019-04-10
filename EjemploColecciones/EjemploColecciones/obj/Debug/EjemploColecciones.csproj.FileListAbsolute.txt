@@ -1,0 +1,7 @@
+C:\Users\Windows10\Desktop\Seba\Proyectos para ejercicios\EjemploColecciones\EjemploColecciones\bin\Debug\EjemploColecciones.exe.config
+C:\Users\Windows10\Desktop\Seba\Proyectos para ejercicios\EjemploColecciones\EjemploColecciones\bin\Debug\EjemploColecciones.exe
+C:\Users\Windows10\Desktop\Seba\Proyectos para ejercicios\EjemploColecciones\EjemploColecciones\bin\Debug\EjemploColecciones.pdb
+C:\Users\Windows10\Desktop\Seba\Proyectos para ejercicios\EjemploColecciones\EjemploColecciones\obj\Debug\EjemploColecciones.csprojAssemblyReference.cache
+C:\Users\Windows10\Desktop\Seba\Proyectos para ejercicios\EjemploColecciones\EjemploColecciones\obj\Debug\EjemploColecciones.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\Desktop\Seba\Proyectos para ejercicios\EjemploColecciones\EjemploColecciones\obj\Debug\EjemploColecciones.exe
+C:\Users\Windows10\Desktop\Seba\Proyectos para ejercicios\EjemploColecciones\EjemploColecciones\obj\Debug\EjemploColecciones.pdb
