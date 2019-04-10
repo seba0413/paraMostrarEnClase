@@ -10,6 +10,94 @@ namespace EjemploColecciones
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("-------------------------------LIST------------------------------------");
+
+            Console.WriteLine();
+
+            //Declaro una lista de idiomas y agrego idiomas a la lista
+
+            List<string> idiomas = new List<string>();
+            idiomas.Add("Chino");
+            idiomas.Add("Español");
+            idiomas.Add("Ingles");
+            idiomas.Add("Hindu");
+            idiomas.Add("Arabe");
+            idiomas.Add("Portugues");
+
+            Console.WriteLine("Idiomas mas hablados:");
+
+            foreach (string idioma in idiomas)
+            {
+                Console.WriteLine(idioma);
+            }
+
+            Console.ReadKey();
+
+            Console.WriteLine();
+            Console.WriteLine("Orden ascendente");
+
+            //Ordeno la lista y vuelvo a mostrarla
+            idiomas.Sort();
+
+            foreach (string idioma in idiomas)
+            {
+                Console.WriteLine(idioma);
+            }
+
+            Console.ReadKey();
+
+            //Ordeno la lista en forma descendente y la muestro
+
+            Console.WriteLine();
+            Console.WriteLine("Orden descendente");
+
+            idiomas.Sort(Program.OrdenarDescendente);
+
+            foreach (string idioma in idiomas)
+            {
+                Console.WriteLine(idioma);
+            }
+
+            Console.ReadKey();
+            Console.Clear();
+
+            //Crear una lista utilizando el inicializador de colecciones
+            Console.WriteLine("Lenguas indigenas: ");
+
+            List<string> lenguasIndigenas = new List<string> { "Quechua", "Guarani", "Aimara", "Nahuati", "Maya" };
+
+            foreach (string lengua in lenguasIndigenas)
+            {
+                Console.WriteLine(lengua);
+            }
+
+            Console.ReadKey();
+            Console.WriteLine();
+            Console.WriteLine("Quito un elemento: ");
+
+            //Elimino el elemento que conicida con el que paso por paramtro
+            lenguasIndigenas.Remove("Maya");
+
+            foreach (string lengua in lenguasIndigenas)
+            {
+                Console.WriteLine("{1}{0}", lengua, lenguasIndigenas.IndexOf(lengua) + 1);
+            }
+
+            Console.ReadKey();
+
+
+            //Quito un elemento en una posicion especifica
+            Console.WriteLine();
+            Console.WriteLine("Quito un elemento en una posicion específica: ");
+            lenguasIndigenas.RemoveAt(3);
+
+            foreach (var item in lenguasIndigenas)
+            {
+                Console.WriteLine(item);
+            }
+
+            Console.ReadKey();
+            Console.Clear();
 
             Console.WriteLine("----------------------------DICTIONARY--------------------------------------------------");
             // Crea un nuevo diccionario de strings, con claves de tipo string
@@ -103,95 +191,6 @@ namespace EjemploColecciones
             if (!abrirCon.ContainsKey("doc"))
             {
                 Console.WriteLine("La clave \"doc\" no fue encontrada.");
-            }
-
-            Console.ReadKey();
-            Console.Clear();
-
-            Console.WriteLine("-------------------------------LIST------------------------------------");
-
-            Console.WriteLine();
-
-            //Declaro una lista de idiomas y agrego idiomas a la lista
-
-            List<string> idiomas = new List<string>();
-            idiomas.Add("Chino");
-            idiomas.Add("Español");
-            idiomas.Add("Ingles");
-            idiomas.Add("Hindu");
-            idiomas.Add("Arabe");
-            idiomas.Add("Portugues");
-
-            Console.WriteLine("Idiomas mas hablados:");
-
-            foreach (string idioma in idiomas)
-            {
-                Console.WriteLine(idioma);
-            }
-
-            Console.ReadKey();
-
-            Console.WriteLine();
-            Console.WriteLine("Orden ascendente");
-
-            //Ordeno la lista y vuelvo a mostrarla
-            idiomas.Sort();
-
-            foreach (string idioma in idiomas)
-            {
-                Console.WriteLine(idioma);
-            }
-
-            Console.ReadKey();
-
-            //Ordeno la lista en forma descendente y la muestro
-
-            Console.WriteLine();
-            Console.WriteLine("Orden descendente");
-
-            idiomas.Sort(Program.OrdenarDescendente);
-
-            foreach (string idioma in idiomas)
-            {
-                Console.WriteLine(idioma);
-            }
-
-            Console.ReadKey();
-            Console.Clear();
-
-            //Crear una lista utilizando el inicializador de colecciones
-            Console.WriteLine("Lenguas indigenas: ");
-
-            List<string> lenguasIndigenas = new List<string> { "Quechua", "Guarani", "Aimara", "Nahuati", "Maya" };
-
-            foreach (string lengua in lenguasIndigenas)
-            {
-                Console.WriteLine(lengua);
-            }
-
-            Console.ReadKey();
-            Console.WriteLine();
-            Console.WriteLine("Quito un elemento: ");
-
-            //Elimino el elemento que conicida con el que paso por paramtro
-            lenguasIndigenas.Remove("Maya");
-
-            foreach (string lengua in lenguasIndigenas)
-            {
-                Console.WriteLine("{1}{0}", lengua, lenguasIndigenas.IndexOf(lengua)+1);
-            }
-
-            Console.ReadKey();
-
-
-            //Quito un elemento en una posicion especifica
-            Console.WriteLine();
-            Console.WriteLine("Quito un elemento en una posicion específica: ");
-            lenguasIndigenas.RemoveAt(3);
-
-            foreach (var item in lenguasIndigenas)
-            {
-                Console.WriteLine(item);
             }
 
             Console.ReadKey();
