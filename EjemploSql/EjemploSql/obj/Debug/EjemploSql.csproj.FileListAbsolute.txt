@@ -1,0 +1,11 @@
+C:\Users\Windows10\Desktop\Seba\UTN\Ejercicios para clases\EjemploSql\EjemploSql\bin\Debug\EjemploSql.exe.config
+C:\Users\Windows10\Desktop\Seba\UTN\Ejercicios para clases\EjemploSql\EjemploSql\bin\Debug\EjemploSql.exe
+C:\Users\Windows10\Desktop\Seba\UTN\Ejercicios para clases\EjemploSql\EjemploSql\bin\Debug\EjemploSql.pdb
+C:\Users\Windows10\Desktop\Seba\UTN\Ejercicios para clases\EjemploSql\EjemploSql\obj\Debug\EjemploSql.csprojAssemblyReference.cache
+C:\Users\Windows10\Desktop\Seba\UTN\Ejercicios para clases\EjemploSql\EjemploSql\obj\Debug\EjemploSql.Form1.resources
+C:\Users\Windows10\Desktop\Seba\UTN\Ejercicios para clases\EjemploSql\EjemploSql\obj\Debug\EjemploSql.Properties.Resources.resources
+C:\Users\Windows10\Desktop\Seba\UTN\Ejercicios para clases\EjemploSql\EjemploSql\obj\Debug\EjemploSql.csproj.GenerateResource.cache
+C:\Users\Windows10\Desktop\Seba\UTN\Ejercicios para clases\EjemploSql\EjemploSql\obj\Debug\EjemploSql.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\Desktop\Seba\UTN\Ejercicios para clases\EjemploSql\EjemploSql\obj\Debug\EjemploSql.exe
+C:\Users\Windows10\Desktop\Seba\UTN\Ejercicios para clases\EjemploSql\EjemploSql\obj\Debug\EjemploSql.pdb
+C:\Users\Windows10\Desktop\Seba\UTN\Ejercicios para clases\EjemploSql\EjemploSql\obj\Debug\EjemploSql.Form2.resources
