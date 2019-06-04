@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.136
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploSql", "EjemploSql\EjemploSql.csproj", "{74D0A627-FFDC-4F7F-BC05-66286D978E3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{70D2538A-7AF5-459F-8F61-FA954FFF7671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{FC9F9430-AC33-4AC1-A0FC-4369962024EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{74D0A627-FFDC-4F7F-BC05-66286D978E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74D0A627-FFDC-4F7F-BC05-66286D978E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74D0A627-FFDC-4F7F-BC05-66286D978E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D2538A-7AF5-459F-8F61-FA954FFF7671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D2538A-7AF5-459F-8F61-FA954FFF7671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D2538A-7AF5-459F-8F61-FA954FFF7671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D2538A-7AF5-459F-8F61-FA954FFF7671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC9F9430-AC33-4AC1-A0FC-4369962024EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC9F9430-AC33-4AC1-A0FC-4369962024EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC9F9430-AC33-4AC1-A0FC-4369962024EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9F9430-AC33-4AC1-A0FC-4369962024EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

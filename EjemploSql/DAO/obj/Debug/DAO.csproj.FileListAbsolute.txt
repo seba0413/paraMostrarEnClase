@@ -1,0 +1,7 @@
+C:\Bapro\paraMostrarEnClase-master\EjemploSql\DAO\bin\Debug\DAO.dll
+C:\Bapro\paraMostrarEnClase-master\EjemploSql\DAO\bin\Debug\DAO.pdb
+C:\Bapro\paraMostrarEnClase-master\EjemploSql\DAO\bin\Debug\Entidades.dll
+C:\Bapro\paraMostrarEnClase-master\EjemploSql\DAO\bin\Debug\Entidades.pdb
+C:\Bapro\paraMostrarEnClase-master\EjemploSql\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Bapro\paraMostrarEnClase-master\EjemploSql\DAO\obj\Debug\DAO.dll
+C:\Bapro\paraMostrarEnClase-master\EjemploSql\DAO\obj\Debug\DAO.pdb

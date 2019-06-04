@@ -1,0 +1,4 @@
+C:\Bapro\paraMostrarEnClase-master\EjemploSql\Entidades\bin\Debug\Entidades.dll
+C:\Bapro\paraMostrarEnClase-master\EjemploSql\Entidades\bin\Debug\Entidades.pdb
+C:\Bapro\paraMostrarEnClase-master\EjemploSql\Entidades\obj\Debug\Entidades.dll
+C:\Bapro\paraMostrarEnClase-master\EjemploSql\Entidades\obj\Debug\Entidades.pdb
