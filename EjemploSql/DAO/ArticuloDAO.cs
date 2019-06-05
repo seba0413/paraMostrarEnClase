@@ -17,7 +17,7 @@ namespace DAO
 
         static  ArticuloDAO()
         {
-            string connectionStr = "Data Source=./SQLEXPRESS/DESKTOP-PFDR43B; Initial Catalog=base1; Integrated Security = True";
+            string connectionStr = @"Data Source=.\SQLEXPRESS; Initial Catalog=base1; Integrated Security = True";
 
             try
             {
